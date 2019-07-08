@@ -1,0 +1,5 @@
+npm run start-starts dev server.
+
+npm run test-runs test
+
+npm run build-builds prod app
